@@ -1,6 +1,4 @@
-package com.hooray.learningPractice.structureAlgorithms.structure;
-
-import java.util.function.Consumer;
+package com.jay.learningPractice.structureAlgorithms.structure;
 
 /**
  * 单向链表

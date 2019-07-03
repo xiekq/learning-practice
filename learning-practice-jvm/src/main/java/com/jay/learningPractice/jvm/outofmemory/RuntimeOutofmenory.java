@@ -1,4 +1,4 @@
-package com.hooray.learningPractice.jvm.outofmemory;
+package com.jay.learningPractice.jvm.outofmemory;
 
 import java.util.ArrayList;
 import java.util.List;

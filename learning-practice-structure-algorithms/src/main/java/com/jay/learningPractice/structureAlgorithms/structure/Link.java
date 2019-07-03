@@ -1,4 +1,4 @@
-package com.hooray.learningPractice.structureAlgorithms.structure;
+package com.jay.learningPractice.structureAlgorithms.structure;
 
 /**
  * 链表接口，学习实战，主要包含链表的插入、删除、查找方法

@@ -1,6 +1,4 @@
-package com.hooray.learningPractice.jvm.gc;
-
-import org.omg.CORBA.ULongLongSeqHelper;
+package com.jay.learningPractice.jvm.gc;
 
 /**
  * 引用计数GC测试类

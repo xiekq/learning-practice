@@ -1,4 +1,4 @@
-package com.hooray.learningPractice.jvm.outofmemory;
+package com.jay.learningPractice.jvm.outofmemory;
 
 /**
  * 虚拟机栈溢出测试类

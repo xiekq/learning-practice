@@ -1,6 +1,4 @@
-package com.hooray.learningPractice.structureAlgorithms.structure;
-
-import com.hooray.learningPractice.structureAlgorithms.structure.SinglyLink.Node;
+package com.jay.learningPractice.structureAlgorithms.structure;
 
 /**
  * TODO
