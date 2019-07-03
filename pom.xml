@@ -12,6 +12,7 @@
         <module>learning-practice-jdkcharacter</module>
         <module>learning-practice-springcloud</module>
         <module>learning-practice-jvm</module>
+        <module>learning-practice-structure-algorithms</module>
     </modules>
 
 

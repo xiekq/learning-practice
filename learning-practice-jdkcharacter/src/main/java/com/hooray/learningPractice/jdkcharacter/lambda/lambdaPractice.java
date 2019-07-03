@@ -1,4 +1,4 @@
-package main.java.com.hooray.learningPractice.jdkcharacter.lambda;
+package com.hooray.learningPractice.jdkcharacter.lambda;
 
 import java.util.Comparator;
 
